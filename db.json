@@ -1,0 +1,69 @@
+{
+  "subscriptions": [
+    {
+      "id": "m1o61o",
+      "url": "https://www.vinted.fr/vetements?search_text=Sweat%20sans%20capuche&search_id=4587399343&brand_id[]=53&price_to=15&currency=EUR&catalog[]=79&order=newest_first",
+      "channelID": "942526673927143447"
+    },
+    {
+      "id": "d0ggmq",
+      "url": "https://www.vinted.be/vetements?order=newest_first&catalog[]=1206&brand_id[]=2319",
+      "channelID": "942526673927143447"
+    },
+    {
+      "id": "kwpka",
+      "url": "https://www.vinted.be/vetements?catalog[]=79&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&order=newest_first&brand_id[]=53",
+      "channelID": "942526673927143447"
+    },
+    {
+      "id": "nsso6c",
+      "url": "https://www.vinted.fr/vetements?search_text=sneakers&search_id=4609332100&catalog[]=1242&price_to=30&currency=EUR&order=newest_first&brand_id[]=2703&brand_id[]=2131149&brand_id[]=6140115&brand_id[]=726632&brand_id[]=3138684",
+      "channelID": "942526673927143447"
+    },
+    {
+      "id": "d1da8",
+      "url": "https://www.vinted.be/vetements?search_text=jordan&brand_id[]=2703&brand_id[]=2131149&brand_id[]=6140115&brand_id[]=726632&catalog[]=1242&price_to=30.0&currency=EUR&search_id=4609399300&order=newest_first&time=1645050114",
+      "channelID": "942526673927143447"
+    },
+    {
+      "id": "utuc5l",
+      "url": "https://www.vinted.fr/vetements?search_text=nike&search_id=4609742170&order=newest_first",
+      "channelID": "943647343457214464"
+    },
+    {
+      "id": "zlqycs",
+      "url": "https://www.vinted.fr/vetements?search_text=jordan&search_id=4615264036&price_to=50&currency=EUR&order=newest_first&catalog[]=1231&brand_id[]=2703",
+      "channelID": "942526673927143447"
+    },
+    {
+      "id": "3wxqxa",
+      "url": "https://www.vinted.fr/vetements?search_text=jordan&search_id=4615264036&price_to=50&currency=EUR&order=newest_first&catalog[]=1231&brand_id[]=2703&brand_id[]=53",
+      "channelID": "942526673927143447"
+    },
+    {
+      "id": "iuegfa",
+      "url": "https://www.vinted.fr/vetements?search_id=4514602687&catalog[]=79&currency=EUR&order=price_low_to_high&brand_id[]=362&price_to=25",
+      "channelID": "944333388284841984"
+    },
+    {
+      "id": "kknrvo",
+      "url": "https://www.vinted.fr/vetements?brand_id[]=362&order=newest_first&price_to=20&currency=EUR",
+      "channelID": "944333388284841984"
+    }
+  ],
+  "last_item_ts_mvg4lx": 1644786376000,
+  "last_item_ts_lpt5mv": 1644786376000,
+  "last_item_ts_n8o5t6": 1644786587000,
+  "last_item_ts_m1o61o": 1645218444000,
+  "last_item_ts_d0ggmq": 1645219467000,
+  "last_item_ts_kwpka": 1645219621000,
+  "last_item_ts_nsso6c": 1645217655000,
+  "last_item_ts_d1da8": 1645050036000,
+  "last_item_ts_utuc5l": 1645219653000,
+  "last_item_ts_zlqycs": 1645219556000,
+  "last_item_ts_3wxqxa": 1645219556000,
+  "is_first_sync": false,
+  "last_item_ts_q3r7j9": 1645184972000,
+  "last_item_ts_iuegfa": 1645184972000,
+  "last_item_ts_kknrvo": 1645219644000
+}
