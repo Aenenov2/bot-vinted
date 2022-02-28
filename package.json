@@ -8,8 +8,6 @@
         "discord-sync-commands": "^0.3.0",
         "discord.js": "^13.6.0",
         "easy-json-database": "^1.5.0",
-        "npm": "^8.5.0",
-        "npm-check": "^5.9.2",
         "vinted-api": "^2.8.0"
     }
 }
